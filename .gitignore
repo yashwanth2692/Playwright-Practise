@@ -1,6 +1,8 @@
 
 # Playwright
 node_modules/
+qa.env
+/allure-results/
 /test-results/
 /playwright-report/
 /blob-report/
